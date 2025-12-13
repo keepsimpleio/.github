@@ -5,7 +5,7 @@ KeepSimple was founded in 2019 by Wolf Alexanyan as a free, public initiative ex
 
 Today, KeepSimple hosts several major modules, including:
 
-## Contribute UX Core
+## UX Core
 
 A first-of-its-kind free educational tool, UX Core quickly spread through global product management communities after its release in 2020.
 
